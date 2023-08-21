@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Sticky Note
-// @namespace http://your.namespace.com
+// @namespace https://t.me/TheErfon
 // @version 1.8
 // @description Adds a sticky note to the browser for taking quick notes
 // @match https://*/*
