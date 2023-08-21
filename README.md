@@ -3,7 +3,7 @@
 2. Create a New UserScript: Open your UserScript manager extension and create a new UserScript. 
 
 3. Copy and Paste the Code: Copy the code and paste it into the UserScript editor . Sticky Note.
-
+      https://github.com/Rainman69/Sticky-note-for-browser/blob/main/Sticky%20Note.js
 5. Save and Enable the UserScript: Save the UserScript, and the UserScript manager will enable it automatically.
 
 6. Use the Sticky Note: Now, whenever you want to take a quick note, simply press the Tab key. The sticky note will appear at the top right corner of your browser window. You can start typing your note directly into the note. To hide the note, press the Tab key again.
