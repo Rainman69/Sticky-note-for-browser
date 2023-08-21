@@ -1,16 +1,18 @@
+script that adds a sticky note feature to your browser. Once installed, the script allows you to create a sticky note that can be displayed or hidden by pressing the Tab key. Here's how you can use this code:
+
 1. Install a UserScript Manager: To use this user script, you need a UserScript manager extension installed in your browser. Popular options include Tampermonkey (for Chrome) and Greasemonkey (for Firefox). Install one of these extensions based on the browser you're using.
 
 2. Create a New UserScript: Open your UserScript manager extension and create a new UserScript. 
 
 3. Copy and Paste the Code: Copy the code and paste it into the UserScript editor . Sticky Note.
       https://github.com/Rainman69/Sticky-note-for-browser/blob/main/Sticky%20Note.js
-5. Save and Enable the UserScript: Save the UserScript, and the UserScript manager will enable it automatically.
+4. Save and Enable the UserScript: Save the UserScript, and the UserScript manager will enable it automatically.
 
-6. Use the Sticky Note: Now, whenever you want to take a quick note, simply press the Tab key. The sticky note will appear at the top right corner of your browser window. You can start typing your note directly into the note. To hide the note, press the Tab key again.
+5. Use the Sticky Note: Now, whenever you want to take a quick note, simply press the Tab key. The sticky note will appear at the top right corner of your browser window. You can start typing your note directly into the note. To hide the note, press the Tab key again.
 
-7. Persistence Across Pages: The note content is automatically saved, so when you navigate to a different page or refresh the current page, your note will still be there.
+6. Persistence Across Pages: The note content is automatically saved, so when you navigate to a different page or refresh the current page, your note will still be there.
 
-8. Uninstall or Disable the UserScript: If you no longer want to use the sticky note feature, you can disable or uninstall the UserScript through your UserScript manager extension.
+7. Uninstall or Disable the UserScript: If you no longer want to use the sticky note feature, you can disable or uninstall the UserScript through your UserScript manager extension.
 
 That's it! You can now use the sticky note feature provided by the user script to quickly jot down notes while browsing the web.
 
