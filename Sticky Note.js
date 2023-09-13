@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name Sticky Note
 // @namespace https://t.me/TheErfon
+// @homepage https://github.com/Rainman69/Sticky-note-for-browser/
 // @version 1.8
 // @description Adds a sticky note to the browser for taking quick notes
 // @match https://*/*
