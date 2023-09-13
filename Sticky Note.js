@@ -6,6 +6,7 @@
 // @description Adds a sticky note to the browser for taking quick notes
 // @match https://*/*
 // @match http://*/*
+// @icon  data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAV1BMVEVBQUH/5AA7PEJ2bjj/6wD/6ACxoCq2pS40N0I+PkF5cDg9P0U4O0Xgyy42OUZNSz//8gDkzywwM0Ldxh69rCt2bz0kKkQvNEbn0irdyS8pMEdzbD58cjancakPAAABjklEQVR4nO3c207CQBiFUQSKDGcRtSrv/5wSxcih0CaSDPNnrWtC8qWz27vp9QAAAAAAAAAAAAAAAAAAAAD+o387uVOaLSeDW5ksc8c06U9Ww1tZTe7xKfYHw4dbGQ4U5qBQocL8FCpUmJ9ChQrzU6hQYX4KFSrMT6FChfkpVKgwP4UKFeancK/qYlVwYfU86mDzknLnNOhYOHodt1m/1duCn+HjuO2P0qwu+pS2FqZ+XZX8pmktTOmpKvpd2laYprvAyIW7De4CAxfuA+MWfm8wcuHPBgMX/h7RsIUHgTEL/45o0MKjwIiFh0c0ZOFJYLzC4yMasDBN58eB0QrT4uQJRitMi/o0MFbh2QajFZ5vMFhhWjQFBips2mCowsYNRips3mCgwgsbjFPY8KGPVXhxg1EKL28wSGGaXQsMUHhtgyEKr24wQuH1DQYoTIv3lsDCC9eXP/RBCj/aA++1sNOdCqvNvMPP7vNOhY73Ynxui70Xo+PdJqngu00AAAAAAAAAAAAAAAAAAACAYnwB4rYpAiTInEoAAAAASUVORK5CYII=
 // @grant GM_addStyle
 // @grant GM_setValue
 // @grant GM_getValue
