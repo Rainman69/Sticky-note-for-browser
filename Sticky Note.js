@@ -10,7 +10,7 @@
 // @grant GM_getValue
 // @grant GM_deleteValue
 // @license      CC BY-NC-ND 4.0
-// @licenseURL   https://github.com/Rainman69/live-Time-date-for-browser/blob/main/LICENSE
+// @licenseURL   https://github.com/Rainman69/Sticky-note-for-browser/blob/main/LICENSE
 // ==/UserScript==
 
 (function () {
