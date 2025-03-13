@@ -18,6 +18,6 @@ That's it! You can now use the sticky note feature provided by the user script t
 
 ![Screenshot_1](https://github.com/Rainman69/Sticky-note-for-browser/assets/96986338/0038b512-8b6c-4b0d-84af-b1e9a708360d)
 
-https://t.me/TheErfon
+https://t.me/DamnAmo
 
 
